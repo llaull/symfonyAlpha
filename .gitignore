@@ -17,5 +17,8 @@
 /components
 /web/app_dev.php
 /composer.lock
+/web/assets
+/web/images
+/web/js
 /src/AppBundle/*
 /.idea
