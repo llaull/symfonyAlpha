@@ -20,5 +20,5 @@
 /web/assets
 /web/images
 /web/js
-/src/AppBundle/*
+/web/uploads
 /.idea
