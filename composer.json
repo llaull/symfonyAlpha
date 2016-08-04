@@ -51,8 +51,8 @@
         ]
     },
     "config": {
+        "component-dir": "web/assets",
         "platform": {
-            "component-dir": "web/assets",
             "php": "5.5.9"
         }
     },
